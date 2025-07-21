@@ -3,4 +3,6 @@
 - Studying Computer Science and Engineering at Indian Institute of Information Technology Ranchi.
 - Currently learning about Backend Development
 
-![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=StephanosNikitis&count_private=true&show_icons=true&theme=ambient_gradient&hide_rank=false)
+![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=StephanosNikitis&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanosNikitis&hide_progress=true&theme=radical)
