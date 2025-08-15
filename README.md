@@ -2,6 +2,7 @@
 - I'm a passionate developer who loves building modern applications, exploring new technologies, and constantly learning.
 - Currently pursuing Computer Science and Engineering at Indian Institute of Information Technology Ranchi.
 - Currently learning about Backend Development
+- GSSOC'25 Contributor
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-singh-957485325) 
